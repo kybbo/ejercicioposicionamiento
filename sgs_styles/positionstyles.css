@@ -1,0 +1,32 @@
+.red{
+	border: 2px solid red;
+	background-color: gray;
+	width: 100px;
+	position: relative;
+	top: 260px;
+
+}
+
+.green{
+	border: 2px solid green;
+	background-color: gray;
+	width: 100px;
+	position: relative;
+	top: 160px;
+	left: 60px;
+}
+
+.blue{
+	border: 2px solid blue;
+	background-color: gray;
+	width: 100px;
+	position: relative;
+	top: 60px;
+	left: 120px;
+
+}
+
+
+
+
+
